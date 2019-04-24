@@ -98,4 +98,5 @@ def assignmentpart2(file="45.csv"):
 	print(df[['Class', 'predicted']])
 
 
+assignmentpart1()
 assignmentpart2()
